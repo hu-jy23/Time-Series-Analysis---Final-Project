@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1747815493.24934 "c:/Users/zazza/Desktop/学习/时间序列分析/Final HM/report/main.tex" "main.pdf" "main" 1747815499.10632 0
+["pdflatex"] 1747816541.28585 "c:/Users/zazza/Desktop/学习/时间序列分析/Final HM/report/main.tex" "main.pdf" "main" 1747816547.3546 0
   "C:/Users/zazza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746606161 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/zazza/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1746606213 31952 8c8bd82f025187e0ecb1e676c91b0fe4 ""
   "C:/Users/zazza/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1746606225 28440 c8e025f9f09e46900081975b84ca6576 ""
@@ -271,7 +271,7 @@
   "D:/App/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "D:/App/MiKTeX/tex/latex/zhnumber/zhnumber-utf8.cfg" 1657817710 5700 603e2f09dad175efabc8594730623a0b ""
   "D:/App/MiKTeX/tex/latex/zhnumber/zhnumber.sty" 1657817710 38160 aafa8d740e4f21b62a4acd4835e54359 ""
-  "c:/Users/zazza/Desktop/学习/时间序列分析/Final HM/report/main.tex" 1747815486 19869 13f7a748d8ce5946fce54fea1922ddf4 ""
+  "c:/Users/zazza/Desktop/学习/时间序列分析/Final HM/report/main.tex" 1747816533 21113 9453d53ab5c141734d8801d85c4db381 ""
   "figures/2000-2020.png" 1746808209 39885 d35fd2c97f5b012dac86b34b4efe8892 ""
   "figures/2014-2025.png" 1746808434 61472 26f3020bca190e13df2db0b32262c752 ""
   "figures/ACF&PACF on diff1[0].png" 1746808598 22627 84ec860a236c69e40faf7b31d45c5687 ""
@@ -283,10 +283,10 @@
   "figures/garch_volatility.png" 1746869651 94070 d0c1ff756c35c5afd0898ad675a65a48 ""
   "figures/rupture_break.png" 1747800749 65866 1507d12192d6795ac9ba03e39a884aa4 ""
   "figures/yichang detection.png" 1746808510 58668 27547059edd952672e41d77f7cde61d2 ""
-  "main.aux" 1747815497 6464 6a4892359fc314c56dd0a3c23f66232b "pdflatex"
-  "main.out" 1747815497 2298 80653d0974a9c7933cba29a9d1a271ed "pdflatex"
-  "main.tex" 1747815486 19869 13f7a748d8ce5946fce54fea1922ddf4 ""
-  "main.toc" 1747815497 1612 9fb7bcaf312341bcf18c02808eef5f18 "pdflatex"
+  "main.aux" 1747816545 6464 dfb52e9afa60aac74832497e9579ab66 "pdflatex"
+  "main.out" 1747816545 2298 80653d0974a9c7933cba29a9d1a271ed "pdflatex"
+  "main.tex" 1747816533 21113 9453d53ab5c141734d8801d85c4db381 ""
+  "main.toc" 1747816545 1612 9fb7bcaf312341bcf18c02808eef5f18 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

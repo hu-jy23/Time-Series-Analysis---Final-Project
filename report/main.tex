@@ -395,6 +395,27 @@ $\beta_1$  & 0.7183 & 0.193 & 0.000 & [0.341, 1.096] \\
 % ---------------------------
 \appendix
 \section{核心代码清单}
+% ---------------------------
+
+本文全部分析流程，包括数据预处理、平稳性检验、ARIMA 与 GARCH 模型拟合、异常值检测与未来走势预测，均使用 Python 编写并整理为 Jupyter Notebook，完整代码已开源发布于：
+  \href{https://github.com/hu-jy23/Time-Series-Analysis---Final-Project}{\texttt{github.com/hu-jy23/Time-Series-Analysis---Final-Project}}
+
+
+  \ 
+
+
+\noindent 核心代码分布如下：
+
+\begin{itemize}
+  \item \texttt{analysis.ipynb}：主文件，包含数据读取、季节分解、平稳性检验、建模、预测与可视化全过程；
+  \item \texttt{report/figures/}：保存所有分析可视化结果，包括结构突变检测、残差分析、预测区间等图表；
+  \item \texttt{USD\_CNY Historical Data2025.csv}：包含 2010--2019 汇率数据（来源：\texttt{investing.com}）；
+  \item \texttt{USD\_CNY Historical Data.csv}：包含 2014--2025 汇率数据（来源：\texttt{investing.com}）；
+  \item 所有模型由 \texttt{statsmodels}、\texttt{arch}、\texttt{pmdarima}、\texttt{matplotlib} 等开源库实现，便于复现与拓展。
+\end{itemize}
+
+如需快速复现实验结果，请直接运行 Jupyter Notebook 文件。
+
 %\lstinputlisting[language=Python]{./code/exchange_analysis.py}
 
 \end{document}
